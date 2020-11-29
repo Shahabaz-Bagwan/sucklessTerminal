@@ -1,5 +1,9 @@
 *.orig
 *.rej
+<<<<<<< HEAD
+=======
+patches
+>>>>>>> 2adc1a166d54211c6cee66969b037783855c4ad3
 x.o
 st
 st.o
